@@ -1,0 +1,140 @@
+*{
+    font-family: 'Fruktur', cursive;
+    font-size: 25px;
+    color: rgb(241, 187, 100)
+}
+
+a{
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    color: rgb(25, 0, 255);
+}
+body {
+background:url("https://i.pinimg.com/originals/4c/47/e0/4c47e0fe0d25aa6415b2077bb2029400.jpg");
+margin: 0;
+}
+.test {
+    border: 10px solid rgb(255, 158, 78);
+    padding: 1px; 
+    justify-content: space-between;
+display: flex;
+background-color: rgb(247, 255, 204);
+color: blue;
+font-size: 42px;
+position: sticky;
+top: 0;
+}
+.flex {
+display: flex;
+}
+.img {
+width: calc(50% - 20px);
+margin-left: 20px;
+}
+/* .position{
+    position: absolute;
+    left: 500px;
+    bottom: 300px;
+} */
+.position {
+display: flex;
+margin-top: 150px;
+background: url("https://www.g-able.com/engine/wp-content/uploads/2016/02/Disaster-Recovery-Site-On-Cloud-%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%A5%E0%B8%87%E0%B8%97%E0%B8%B8%E0%B8%99-%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%84%E0%B8%94%E0%B9%89%E0%B9%83%E0%B8%99%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A7%E0%B8%B1%E0%B8%99.jpg")
+  no-repeat;
+background-position: center;
+background-size: cover;
+
+height: 200px;
+justify-content: center;
+word-break: break-all;
+align-items: center;
+}
+table,
+th,
+td {
+border: 5px solid #08c527;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Fruktur&display=swap');
+.header{
+    background-color: rgb(22, 25, 233);
+margin-top: 50px;
+margin-bottom:0px;
+text-align: center;
+ border-color: bisque;
+ border-style:ridge;    
+}
+.head{
+    background-color: rgb(82, 73, 209);
+    margin-top: 0px;
+    border-color: rgb(51, 224, 45);
+    border-style:ridge ;
+}
+.O{
+    width: calc(100% - 7px);
+    background-color: seashell;
+    border-style: double;
+    border-color: saddlebrown;
+}
+.A{
+    background-color: tomato;
+    color: white;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 5px;
+}
+.L{
+    background-color: rgb(226, 147, 147);
+    color: indianred;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 5px;
+}
+.C{
+    background-color: rgb(236, 115, 115);
+    color: white;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 5px;
+}
+.note {
+    font-size: 120%;
+    color: red;
+  }
+  .T{
+      width: 100%;
+      background-color: rgb(248, 250, 135);
+  }
+  .ddd {
+      font-size: 120%;
+      color: rgb(255, 0, 0);
+  } 
+  .E{
+      color: rgb(0, 0, 0);
+  } 
+  .F{
+      color: rgb(0, 0, 0);
+  }
+  .Z{
+      color: rgb(22, 25, 233);
+  }
+  .X{
+      color: rgb(22, 25, 233);
+  }
+  .V{
+      color: rgb(0, 0, 0);
+  }
+  .cen{
+      color: black;
+  }
+  .tro{
+      color: black;
+  }
+  .just{
+      background-color: rgba(183, 120, 228,1);
+    border: 1px solid rgb(255, 255, 255);
+    padding: 10px;
+    width: 500px;
+    height: 400px;
+    text-align: justify;
+  }
